@@ -1,6 +1,6 @@
 # Hive Forensics AI - Vektaris API Client
 
-[![Hive Forensics AI](https://www.hiveforensics.com/logo.png)](https://www.hiveforensics.com)
+[![Hive Forensics AI](https://www.vektaris.com/assets/logo-CrKuevEb.png)](https://www.hiveforensics.com)
 
 ## 🚀 Introduction
 Welcome to the **Hive Forensics AI** API client for interacting with **Vektaris**, our cutting-edge vector database built on the **ICP blockchain**. This npm package provides a simple and efficient way for developers to integrate our API into their applications.
